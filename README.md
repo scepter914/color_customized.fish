@@ -2,7 +2,7 @@
 ## Installation
 
 ```
-fisher add color_customized.fish
+fisher add scepter914/color_customized.fish
 ```
 
 ## Example
